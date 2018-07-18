@@ -1,0 +1,10 @@
+#normalCard{
+	border: solid 1px black;
+}
+
+#selectedCard{
+	border: solid 5px red;
+	transition-property: border;
+	transition-duration: 5s;
+
+}
